@@ -1,24 +1,9 @@
-# README
+# Adding Docker to your Rails workflow
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+Basic example of how to use docker and docker-compose in your Rails workflow.
 
-* Ruby version
+If you want to do it, follow the steps in the below link:
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[Adding Docker to your Rails workflow](http://blog.magmalabs.io/2018/04/24/adding-docker-rails-workflow.html)
